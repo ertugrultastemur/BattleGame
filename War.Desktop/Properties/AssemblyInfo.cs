@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BattleGame.Desktop")]
+[assembly: AssemblyTitle("War.Desktop")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BattleGame.Desktop")]
+[assembly: AssemblyProduct("War.Desktop")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cd98fa4e-c201-4a28-8003-05a195bdff00")]
+[assembly: Guid("78b56b16-8295-408c-a894-8721dddd3efe")]
 
 // Version information for an assembly consists of the following four values:
 //
